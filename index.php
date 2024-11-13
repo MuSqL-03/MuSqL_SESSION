@@ -69,7 +69,7 @@
         max-width: 150px;
     }
     body {
-        background-color: black;
+        background-color: blue;
     }
   </style>
 </head>
